@@ -1,4 +1,0 @@
-gcc -g p1original.c
- ./a.out
-Enter two numbers : 2 4
-2 + 4 is 6
